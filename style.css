@@ -1,0 +1,22 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.h
+{
+font-size: 14px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 7px 7px 7px black;
+    border-radius: 5px;
+}
